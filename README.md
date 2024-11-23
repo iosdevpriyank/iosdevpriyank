@@ -41,9 +41,9 @@ Hello! I'm Priyank Gandhi, a passionate and experienced iOS developer with over 
 ## 🔗 Let's Connect
 
 - **Email:** [iosdev.priyank@gmail.com](mailto:iosdev.priyank@gmail.com)  
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com)  
-- **GitHub:** [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- **Portfolio:** [Netlify Portfolio](https://your-portfolio-url.netlify.app)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gandhipriyank/)
+- **Medium:** [Priyank's Blog](https://medium.com/@iosdev.priyank)  
+- **Portfolio:** [Priyank's Portfolio](https://priyankgandhi.netlify.app/)
 
 ---
 
@@ -52,8 +52,6 @@ Hello! I'm Priyank Gandhi, a passionate and experienced iOS developer with over 
 ### **LaskNews**
 A SwiftUI-based project delivering real-time news updates with a sleek and modern UI.  
 
-### **Portfolio App**
-A responsive and interactive personal portfolio app built with cutting-edge web technologies.
 
 ---
 
