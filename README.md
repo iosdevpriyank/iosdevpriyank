@@ -42,6 +42,26 @@ using real-world scenarios and examples.
 A focused demo showing how singletons evolve into hidden problems
 and how to refactor them using safer design and isolation.
 
-→ https://github.com/iosdevpriyank/ShoppingApp
+→ [ShoppingApp](https://github.com/iosdevpriyank/ShoppingApp)
+
+---
+
+## ✍️ Writing
+- Medium: https://medium.com/@iosdev.priyank
+- Topics: Swift Concurrency, Architecture, Debugging, API design
+
+---
+
+## 🛠 Tech Stack
+Swift · SwiftUI · UIKit  
+Async/Await · Actors · Combine  
+REST APIs · CoreData · SwiftData  
+Xcode · Instruments · Git
+
+---
+
+## 📫 Connect
+- Email: iosdev.priyank@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gandhipriyank/
 
 ---
