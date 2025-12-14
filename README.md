@@ -1,58 +1,70 @@
-# 👨‍💻 Priyank Gandhi - iOS Developer
+# 👋 Hi, I’m Priyank Gandhi
 
-Hello! I'm Priyank Gandhi, a passionate and experienced iOS developer with over 10 years of expertise in designing and developing applications across various Apple platforms. I specialize in creating seamless user experiences and robust applications using cutting-edge technologies.
+Senior iOS Developer • 11+ years  
+Swift · SwiftUI · UIKit · Concurrency
 
-![Visualization](https://static.tildacdn.com/tild3365-3030-4465-a630-663937666534/who-is-ios-developer.jpg)
-
----
-
-## 💼 About Me
-
-- 🌍 Based in **Ahmedabad, Gujarat, India**  
-- 📱 Building applications for **iOS, watchOS, tvOS, macOS, and visionOS**  
-- 🛠 Skilled in **Swift**, **SwiftUI**, **Objective-C**, and **Xcode**  
-- 📊 Familiar with tools like **Jira**, **Confluence**, **Excel**, and **GitHub**  
-- 🚀 Always learning and adapting to new challenges!
+I build production-grade iOS applications with a strong focus on
+clean architecture, safe concurrency, and long-term maintainability.
 
 ---
 
-## 📊 Skills Progress Chart
-
-| Skill/Platform    | Expertise Level | Progress |
-|--------------------|-----------------|----------|
-| **iOS Development** | 🔥 Proficient  | ███████░ 90% |
-| **watchOS**        | ⚡ Intermediate   | █████░░░ 75%  |
-| **tvOS**           | ⚡ Intermediate | ███░░░░░ 35%  |
-| **macOS**          | 🚀 Learning     | ██░░░░░░ 30%  |
-| **visionOS**       | 🚀 Learning     | ███░░░░░ 40%  |
-| **GitHub**         | 🔥 Proficient     | ██████░░ 70%  |
-| **Jira/Confluence**| ⚡ Intermediate     | ██████░░ 70%  |
+## 🧠 What I Work On
+- Modern Swift Concurrency (async/await, actors, Sendable)
+- SwiftUI + UIKit hybrid navigation
+- Architecture patterns (MVVM, Clean, TCA-style thinking)
+- Performance, memory safety & code clarity
+- Teaching through real-world examples
 
 ---
 
-## 🌟 Highlights
+## 📘 Swift Up Your Day
+Short-form posts where I explain practical Swift concepts
+using real-world scenarios and examples.
 
-- 💡 **Visionary in Apple Ecosystem Development:** Expertise in developing for **Apple's platforms**, including the emerging **visionOS** for spatial computing.
-- 🌱 **Continuous Learner:** Always exploring new tools and methodologies to deliver scalable and user-friendly applications.
-- 📖 **Tech Blogger:** Sharing my knowledge on Medium through articles on Swift and iOS development.
+- **Post 1 — Function Documentation (Swift)**  
+  → https://www.linkedin.com/posts/gandhipriyank_how-to-document-your-code-like-a-pro-activity-7398567296509751296-wHo7
 
----
+- **Post 2 — Sendable, explained simply**  
+  → https://www.linkedin.com/posts/gandhipriyank_swift-sendable-made-simple-activity-7399310254242676736-7edn
 
-## 🔗 Let's Connect
+- **Post 3 — Mirror in Swift (Logger & Debugging)**  
+  → https://www.linkedin.com/posts/gandhipriyank_mirror-swifts-secret-debugging-superpower-activity-7401122905222262784-S2LL
 
-- **Email:** [iosdev.priyank@gmail.com](mailto:iosdev.priyank@gmail.com)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gandhipriyank/)
-- **Medium:** [Priyank's Blog](https://medium.com/@iosdev.priyank)  
-- **Portfolio:** [Priyank's Portfolio](https://priyankgandhi.netlify.app/)
-
----
-
-## 🚀 My Featured Projects
-
-### **LaskNews**
-A SwiftUI-based project delivering real-time news updates with a sleek and modern UI.  
-
+- **Post 4 — Singleton: Villain, Hero, or Misunderstood?**  
+  → LinkedIn: https://www.linkedin.com/posts/gandhipriyank_singletons-villain-hero-or-just-misunderstood-activity-7405471543012712448-Q95n  
+  → Medium: https://medium.com/@iosdev.priyank/meet-singleton-the-friend-who-shows-up-everywhere-b0fc4938e767
 
 ---
 
-Feel free to explore my repositories, contribute to projects, or collaborate on exciting opportunities. Let's build something amazing together! 🎉
+## 🚀 Featured Project
+
+**ShoppingApp — Singleton Patterns (Good vs Bad)**  
+A focused demo showing how singletons evolve into hidden problems
+and how to refactor them using safer design and isolation.
+
+→ https://github.com/iosdevpriyank/ShoppingApp
+
+---
+
+## ✍️ Writing
+- Medium: https://medium.com/@iosdev.priyank
+- Topics: Swift Concurrency, Architecture, Debugging, API design
+
+---
+
+## 🛠 Tech Stack
+Swift · SwiftUI · UIKit  
+Async/Await · Actors · Combine  
+REST APIs · CoreData · SwiftData  
+Xcode · Instruments · Git
+
+---
+
+## 📫 Connect
+- Email: iosdev.priyank@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gandhipriyank/
+- Portfolio: https://priyankgandhi.netlify.app/
+
+---
+
+> “Clean code is not about cleverness — it’s about clarity.”
